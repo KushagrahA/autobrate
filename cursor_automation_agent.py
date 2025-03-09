@@ -433,3 +433,5 @@ if __name__ == "__main__":
 # test: add unit test for pynput mouse event capture
 
 # refactor: simplify event queue structure
+
+# docs: add inline comments explaining mouse poll rate

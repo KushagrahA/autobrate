@@ -431,3 +431,5 @@ if __name__ == "__main__":
 # Production hardening
 
 # test: add unit test for pynput mouse event capture
+
+# refactor: simplify event queue structure

@@ -435,3 +435,5 @@ if __name__ == "__main__":
 # refactor: simplify event queue structure
 
 # docs: add inline comments explaining mouse poll rate
+
+# fix: handle high-DPI scaling on Windows 11

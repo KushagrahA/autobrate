@@ -439,3 +439,5 @@ if __name__ == "__main__":
 # fix: handle high-DPI scaling on Windows 11
 
 # test: display scaling resolution test matrix
+
+# docs: update setup_windows.bat instructions

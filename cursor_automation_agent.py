@@ -437,3 +437,5 @@ if __name__ == "__main__":
 # docs: add inline comments explaining mouse poll rate
 
 # fix: handle high-DPI scaling on Windows 11
+
+# test: display scaling resolution test matrix

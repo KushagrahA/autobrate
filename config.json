@@ -1,0 +1,102 @@
+{
+  "settings": {
+    "emergency_stop": {
+      "enabled": true,
+      "corner": "top-left",
+      "description": "Move mouse to corner to stop execution"
+    },
+    "recording": {
+      "screenshot_interval": 2.0,
+      "stop_key": "f9",
+      "max_duration": 3600,
+      "save_screenshots": true
+    },
+    "execution": {
+      "default_speed": 1.0,
+      "require_confirmation": true,
+      "countdown_seconds": 3,
+      "pause_between_actions": 0.5
+    },
+    "safety": {
+      "test_mode": false,
+      "description": "When true, shows actions but doesn't execute"
+    }
+  },
+  "task_templates": {
+    "linkedin_message": {
+      "name": "LinkedIn Connection Message",
+      "description": "Send a message to LinkedIn connection",
+      "keywords": ["linkedin", "message", "connect", "network", "referral"],
+      "typical_duration": 30,
+      "steps": [
+        "Navigate to profile",
+        "Click 'Message' button",
+        "Type message",
+        "Click 'Send'"
+      ]
+    },
+    "course_mcq": {
+      "name": "Course MCQ Completion",
+      "description": "Answer multiple choice questions in online course",
+      "keywords": ["course", "mcq", "quiz", "test", "question", "answer"],
+      "typical_duration": 10,
+      "steps": [
+        "Read question",
+        "Select answer",
+        "Click 'Next' or 'Submit'"
+      ]
+    },
+    "form_filling": {
+      "name": "Web Form Data Entry",
+      "description": "Fill out web forms with data",
+      "keywords": ["form", "data entry", "fill", "input", "submit"],
+      "typical_duration": 45,
+      "steps": [
+        "Click first field",
+        "Enter data",
+        "Tab to next field",
+        "Repeat",
+        "Submit form"
+      ]
+    },
+    "job_application": {
+      "name": "Job Application Submission",
+      "description": "Submit job applications on job boards",
+      "keywords": ["job", "apply", "application", "resume", "submit"],
+      "typical_duration": 120,
+      "steps": [
+        "Fill personal info",
+        "Upload resume",
+        "Fill work experience",
+        "Submit application"
+      ]
+    }
+  },
+  "keyboard_shortcuts": {
+    "start_recording": "ctrl+shift+r",
+    "stop_recording": "f9",
+    "pause_execution": "f8",
+    "emergency_stop": "ctrl+shift+esc",
+    "description": "Customize keyboard shortcuts (not yet implemented)"
+  },
+  "advanced": {
+    "use_computer_vision": false,
+    "adaptive_timing": false,
+    "error_recovery": false,
+    "smart_waiting": false,
+    "description": "Advanced features (require additional implementation)"
+  },
+  "ai": {
+    "enabled": true,
+    "model": "claude-sonnet-4-20250514",
+    "max_tokens": 1000,
+    "analyze_recordings": true,
+    "smart_matching": true
+  },
+  "logging": {
+    "enabled": true,
+    "level": "INFO",
+    "log_file": "automation_agent.log",
+    "log_screenshots": true
+  }
+}

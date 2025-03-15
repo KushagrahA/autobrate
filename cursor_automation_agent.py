@@ -447,3 +447,5 @@ if __name__ == "__main__":
 # perf: optimize bezier point calculation math
 
 # test: assert bezier points stay within screen bounds
+
+# chore: clean up debug print statements

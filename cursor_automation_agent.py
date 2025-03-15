@@ -443,3 +443,5 @@ if __name__ == "__main__":
 # docs: update setup_windows.bat instructions
 
 # core: add bezier curve interpolation for natural mouse arc
+
+# perf: optimize bezier point calculation math

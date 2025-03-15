@@ -441,3 +441,5 @@ if __name__ == "__main__":
 # test: display scaling resolution test matrix
 
 # docs: update setup_windows.bat instructions
+
+# core: add bezier curve interpolation for natural mouse arc

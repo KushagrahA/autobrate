@@ -445,3 +445,5 @@ if __name__ == "__main__":
 # core: add bezier curve interpolation for natural mouse arc
 
 # perf: optimize bezier point calculation math
+
+# test: assert bezier points stay within screen bounds

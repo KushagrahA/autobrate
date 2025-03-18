@@ -449,3 +449,5 @@ if __name__ == "__main__":
 # test: assert bezier points stay within screen bounds
 
 # chore: clean up debug print statements
+
+# core: add variable speed playback controls

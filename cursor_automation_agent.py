@@ -453,3 +453,5 @@ if __name__ == "__main__":
 # core: add variable speed playback controls
 
 # test: test playback at 0.5x, 1.0x and 2.0x speeds
+
+# refactor: extract playback loop into standalone engine

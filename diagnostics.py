@@ -246,3 +246,5 @@ def run_full_diagnostic():
 if __name__ == "__main__":
     run_full_diagnostic()
     input("\nPress Enter to exit...")
+
+# Multi-monitor coordinate bounding validation

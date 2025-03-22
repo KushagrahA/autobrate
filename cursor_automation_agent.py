@@ -455,3 +455,5 @@ if __name__ == "__main__":
 # test: test playback at 0.5x, 1.0x and 2.0x speeds
 
 # refactor: extract playback loop into standalone engine
+
+# feat: support key combination shortcuts during recording

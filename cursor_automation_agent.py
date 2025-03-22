@@ -457,3 +457,5 @@ if __name__ == "__main__":
 # refactor: extract playback loop into standalone engine
 
 # feat: support key combination shortcuts during recording
+
+# fix: prevent modifier keys from getting stuck on interrupt

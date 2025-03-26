@@ -467,3 +467,5 @@ if __name__ == "__main__":
 # perf: compress recorded json files by omitting micro-deltas
 
 # test: verify action stream deserialization integrity
+
+# docs: document recorded json schema format

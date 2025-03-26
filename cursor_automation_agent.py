@@ -463,3 +463,5 @@ if __name__ == "__main__":
 # test: test Ctrl+C, Ctrl+V and Alt+Tab combinations
 
 # core: json serialization for recorded action streams
+
+# perf: compress recorded json files by omitting micro-deltas

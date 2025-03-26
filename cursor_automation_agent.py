@@ -465,3 +465,5 @@ if __name__ == "__main__":
 # core: json serialization for recorded action streams
 
 # perf: compress recorded json files by omitting micro-deltas
+
+# test: verify action stream deserialization integrity

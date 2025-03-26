@@ -461,3 +461,5 @@ if __name__ == "__main__":
 # fix: prevent modifier keys from getting stuck on interrupt
 
 # test: test Ctrl+C, Ctrl+V and Alt+Tab combinations
+
+# core: json serialization for recorded action streams

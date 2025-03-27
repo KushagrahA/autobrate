@@ -395,3 +395,5 @@ if __name__ == "__main__":
     main()
 
 # Mouse event smoothing helper
+
+# Keyboard shortcut trigger

@@ -397,3 +397,5 @@ if __name__ == "__main__":
 # Mouse event smoothing helper
 
 # Keyboard shortcut trigger
+
+# Failsafe corner handler

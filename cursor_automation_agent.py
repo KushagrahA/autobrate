@@ -473,3 +473,5 @@ if __name__ == "__main__":
 # feat: emergency stop corner trigger implementation
 
 # test: test failsafe corner abort under rapid mouse movement
+
+# docs: update safety documentation in README

@@ -469,3 +469,5 @@ if __name__ == "__main__":
 # test: verify action stream deserialization integrity
 
 # docs: document recorded json schema format
+
+# feat: emergency stop corner trigger implementation

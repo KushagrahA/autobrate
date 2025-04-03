@@ -475,3 +475,5 @@ if __name__ == "__main__":
 # test: test failsafe corner abort under rapid mouse movement
 
 # docs: update safety documentation in README
+
+# agent: template matching helper for button discovery

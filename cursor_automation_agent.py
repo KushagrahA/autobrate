@@ -479,3 +479,5 @@ if __name__ == "__main__":
 # agent: template matching helper for button discovery
 
 # perf: grayscale conversion before template correlation
+
+# test: add unit test for opencv template matching accuracy

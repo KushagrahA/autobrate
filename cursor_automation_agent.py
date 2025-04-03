@@ -477,3 +477,5 @@ if __name__ == "__main__":
 # docs: update safety documentation in README
 
 # agent: template matching helper for button discovery
+
+# perf: grayscale conversion before template correlation

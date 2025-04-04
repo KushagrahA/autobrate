@@ -459,3 +459,5 @@ def advanced_main():
 
 if __name__ == "__main__":
     advanced_main()
+
+# Retry on element not found

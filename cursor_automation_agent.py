@@ -483,3 +483,5 @@ if __name__ == "__main__":
 # test: add unit test for opencv template matching accuracy
 
 # agent: retry backoff mechanism for slow-loading web pages
+
+# refactor: use exponential backoff with jitter

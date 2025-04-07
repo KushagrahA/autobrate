@@ -485,3 +485,5 @@ if __name__ == "__main__":
 # agent: retry backoff mechanism for slow-loading web pages
 
 # refactor: use exponential backoff with jitter
+
+# test: mock slow network response and verify retry loop

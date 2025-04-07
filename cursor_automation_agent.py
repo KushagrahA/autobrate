@@ -487,3 +487,5 @@ if __name__ == "__main__":
 # refactor: use exponential backoff with jitter
 
 # test: mock slow network response and verify retry loop
+
+# docs: explain retry parameters in config.json

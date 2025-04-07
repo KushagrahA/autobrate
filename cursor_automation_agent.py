@@ -481,3 +481,5 @@ if __name__ == "__main__":
 # perf: grayscale conversion before template correlation
 
 # test: add unit test for opencv template matching accuracy
+
+# agent: retry backoff mechanism for slow-loading web pages

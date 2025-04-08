@@ -399,3 +399,5 @@ if __name__ == "__main__":
 # Keyboard shortcut trigger
 
 # Failsafe corner handler
+
+# Action replay serialization

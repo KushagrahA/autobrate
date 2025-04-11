@@ -491,3 +491,5 @@ if __name__ == "__main__":
 # docs: explain retry parameters in config.json
 
 # agent: visual diff detection between pre/post click states
+
+# test: test threshold sensitivity on subtle UI changes

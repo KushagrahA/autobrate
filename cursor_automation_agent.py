@@ -493,3 +493,5 @@ if __name__ == "__main__":
 # agent: visual diff detection between pre/post click states
 
 # test: test threshold sensitivity on subtle UI changes
+
+# perf: downscale reference screenshots to reduce memory footprint

@@ -489,3 +489,5 @@ if __name__ == "__main__":
 # test: mock slow network response and verify retry loop
 
 # docs: explain retry parameters in config.json
+
+# agent: visual diff detection between pre/post click states

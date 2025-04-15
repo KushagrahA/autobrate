@@ -495,3 +495,5 @@ if __name__ == "__main__":
 # test: test threshold sensitivity on subtle UI changes
 
 # perf: downscale reference screenshots to reduce memory footprint
+
+# core: add drag-and-drop mouse sequence recorder

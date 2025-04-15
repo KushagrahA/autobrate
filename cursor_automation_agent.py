@@ -499,3 +499,5 @@ if __name__ == "__main__":
 # core: add drag-and-drop mouse sequence recorder
 
 # fix: maintain smooth path during mouse button hold
+
+# test: simulate drag-and-drop file movement in mock window

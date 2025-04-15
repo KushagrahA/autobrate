@@ -497,3 +497,5 @@ if __name__ == "__main__":
 # perf: downscale reference screenshots to reduce memory footprint
 
 # core: add drag-and-drop mouse sequence recorder
+
+# fix: maintain smooth path during mouse button hold

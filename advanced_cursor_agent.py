@@ -463,3 +463,5 @@ if __name__ == "__main__":
 # Retry on element not found
 
 # Screenshot capture hook
+
+# Visual verification

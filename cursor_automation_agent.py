@@ -501,3 +501,5 @@ if __name__ == "__main__":
 # fix: maintain smooth path during mouse button hold
 
 # test: simulate drag-and-drop file movement in mock window
+
+# diagnostics: add system environment diagnostics tool

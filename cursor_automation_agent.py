@@ -505,3 +505,5 @@ if __name__ == "__main__":
 # diagnostics: add system environment diagnostics tool
 
 # diagnostics: check accessibility permissions and screen resolution
+
+# test: test diagnostics output across multiple virtual monitors

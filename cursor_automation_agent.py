@@ -503,3 +503,5 @@ if __name__ == "__main__":
 # test: simulate drag-and-drop file movement in mock window
 
 # diagnostics: add system environment diagnostics tool
+
+# diagnostics: check accessibility permissions and screen resolution

@@ -511,3 +511,5 @@ if __name__ == "__main__":
 # agent: rule-based natural language prompt matching
 
 # refactor: extract intent keywords dictionary into config
+
+# test: test prompt parser with sample browser commands

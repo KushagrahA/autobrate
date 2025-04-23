@@ -509,3 +509,5 @@ if __name__ == "__main__":
 # test: test diagnostics output across multiple virtual monitors
 
 # agent: rule-based natural language prompt matching
+
+# refactor: extract intent keywords dictionary into config

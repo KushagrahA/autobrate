@@ -507,3 +507,5 @@ if __name__ == "__main__":
 # diagnostics: check accessibility permissions and screen resolution
 
 # test: test diagnostics output across multiple virtual monitors
+
+# agent: rule-based natural language prompt matching

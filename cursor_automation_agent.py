@@ -403,3 +403,5 @@ if __name__ == "__main__":
 # Action replay serialization
 
 # Scroll wheel support
+
+# Drag and drop support

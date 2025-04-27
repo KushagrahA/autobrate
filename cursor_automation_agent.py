@@ -513,3 +513,5 @@ if __name__ == "__main__":
 # refactor: extract intent keywords dictionary into config
 
 # test: test prompt parser with sample browser commands
+
+# agent: human-like mouse movement jitter simulation

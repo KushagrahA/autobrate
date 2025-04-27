@@ -515,3 +515,5 @@ if __name__ == "__main__":
 # test: test prompt parser with sample browser commands
 
 # agent: human-like mouse movement jitter simulation
+
+# perf: use fast pseudo-random Gaussian distribution

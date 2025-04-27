@@ -517,3 +517,5 @@ if __name__ == "__main__":
 # agent: human-like mouse movement jitter simulation
 
 # perf: use fast pseudo-random Gaussian distribution
+
+# test: verify jitter amplitude is bounded within 3 pixels

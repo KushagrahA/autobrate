@@ -248,3 +248,5 @@ if __name__ == "__main__":
     input("\nPress Enter to exit...")
 
 # Multi-monitor coordinate bounding validation
+
+# OS permission checks

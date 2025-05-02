@@ -525,3 +525,5 @@ if __name__ == "__main__":
 # agent: multi-tab browser synchronization
 
 # fix: wait for tab title change before dispatching keystrokes
+
+# test: simulate tab switching with Chrome devtools mock

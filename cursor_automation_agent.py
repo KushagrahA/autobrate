@@ -521,3 +521,5 @@ if __name__ == "__main__":
 # test: verify jitter amplitude is bounded within 3 pixels
 
 # docs: document anti-bot humanization techniques
+
+# agent: multi-tab browser synchronization

@@ -523,3 +523,5 @@ if __name__ == "__main__":
 # docs: document anti-bot humanization techniques
 
 # agent: multi-tab browser synchronization
+
+# fix: wait for tab title change before dispatching keystrokes

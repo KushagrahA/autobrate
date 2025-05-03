@@ -465,3 +465,5 @@ if __name__ == "__main__":
 # Screenshot capture hook
 
 # Visual verification
+
+# Natural jitter

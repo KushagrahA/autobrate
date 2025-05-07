@@ -258,3 +258,5 @@ Start with a simple task:
 **Remember**: Start small, test thoroughly, and always have the emergency stop ready!
 
 Happy automating! 🚀
+
+<!-- CLI commands section -->

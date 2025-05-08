@@ -527,3 +527,5 @@ if __name__ == "__main__":
 # fix: wait for tab title change before dispatching keystrokes
 
 # test: simulate tab switching with Chrome devtools mock
+
+# core: support mouse scroll wheel events and speed curves

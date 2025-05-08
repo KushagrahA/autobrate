@@ -531,3 +531,5 @@ if __name__ == "__main__":
 # core: support mouse scroll wheel events and speed curves
 
 # test: verify vertical and horizontal scroll delta recording
+
+# docs: add scroll action examples to QUICKSTART.md

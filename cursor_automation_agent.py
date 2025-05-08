@@ -529,3 +529,5 @@ if __name__ == "__main__":
 # test: simulate tab switching with Chrome devtools mock
 
 # core: support mouse scroll wheel events and speed curves
+
+# test: verify vertical and horizontal scroll delta recording

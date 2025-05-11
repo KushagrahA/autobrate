@@ -405,3 +405,5 @@ if __name__ == "__main__":
 # Scroll wheel support
 
 # Drag and drop support
+
+# Timestamp delta normalization

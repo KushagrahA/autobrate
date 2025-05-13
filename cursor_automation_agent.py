@@ -539,3 +539,5 @@ if __name__ == "__main__":
 # feat: auto tab navigation between consecutive input fields
 
 # test: test form filler against dummy html forms
+
+# docs: add comprehensive form automation walkthrough

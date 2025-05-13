@@ -535,3 +535,5 @@ if __name__ == "__main__":
 # docs: add scroll action examples to QUICKSTART.md
 
 # agent: automated web form fill workflow
+
+# feat: auto tab navigation between consecutive input fields

@@ -543,3 +543,5 @@ if __name__ == "__main__":
 # docs: add comprehensive form automation walkthrough
 
 # perf: batch disk write operations for recorded telemetry
+
+# fix: prevent disk IO spikes during 120fps recording

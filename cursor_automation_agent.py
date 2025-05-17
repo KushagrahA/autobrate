@@ -545,3 +545,5 @@ if __name__ == "__main__":
 # perf: batch disk write operations for recorded telemetry
 
 # fix: prevent disk IO spikes during 120fps recording
+
+# test: stress test continuous 10-minute recording session

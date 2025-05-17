@@ -541,3 +541,5 @@ if __name__ == "__main__":
 # test: test form filler against dummy html forms
 
 # docs: add comprehensive form automation walkthrough
+
+# perf: batch disk write operations for recorded telemetry

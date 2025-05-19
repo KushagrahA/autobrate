@@ -269,3 +269,5 @@ Remember: **With great automation comes great responsibility!** 🕷️
 Questions? Check the README.md for detailed docs!
 
 Happy automating! 🎉
+
+<!-- Troubleshooting common issues -->

@@ -551,3 +551,5 @@ if __name__ == "__main__":
 # config: allow custom blacklisted screen regions for privacy
 
 # test: verify password fields and sensitive areas are masked
+
+# docs: security guidelines for handling credential entry

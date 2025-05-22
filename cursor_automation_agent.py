@@ -549,3 +549,5 @@ if __name__ == "__main__":
 # test: stress test continuous 10-minute recording session
 
 # config: allow custom blacklisted screen regions for privacy
+
+# test: verify password fields and sensitive areas are masked

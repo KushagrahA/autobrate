@@ -547,3 +547,5 @@ if __name__ == "__main__":
 # fix: prevent disk IO spikes during 120fps recording
 
 # test: stress test continuous 10-minute recording session
+
+# config: allow custom blacklisted screen regions for privacy

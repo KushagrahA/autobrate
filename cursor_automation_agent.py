@@ -553,3 +553,5 @@ if __name__ == "__main__":
 # test: verify password fields and sensitive areas are masked
 
 # docs: security guidelines for handling credential entry
+
+# core: graceful shutdown and signal handling (SIGINT/SIGTERM)

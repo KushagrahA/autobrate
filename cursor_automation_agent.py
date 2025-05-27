@@ -555,3 +555,5 @@ if __name__ == "__main__":
 # docs: security guidelines for handling credential entry
 
 # core: graceful shutdown and signal handling (SIGINT/SIGTERM)
+
+# fix: restore system cursor state if aborted mid-drag

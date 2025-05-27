@@ -557,3 +557,5 @@ if __name__ == "__main__":
 # core: graceful shutdown and signal handling (SIGINT/SIGTERM)
 
 # fix: restore system cursor state if aborted mid-drag
+
+# test: verify cleanup routines trigger on keyboard interrupt

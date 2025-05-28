@@ -407,3 +407,5 @@ if __name__ == "__main__":
 # Drag and drop support
 
 # Timestamp delta normalization
+
+# Buffer flush optimization

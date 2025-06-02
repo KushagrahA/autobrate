@@ -473,3 +473,5 @@ if __name__ == "__main__":
 # Action plan execution
 
 # Click verification check
+
+# Double click handling

@@ -561,3 +561,5 @@ if __name__ == "__main__":
 # test: verify cleanup routines trigger on keyboard interrupt
 
 # agent: add OCR text recognition hook for dynamic buttons
+
+# perf: crop OCR search area around expected coordinates

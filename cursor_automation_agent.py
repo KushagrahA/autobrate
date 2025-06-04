@@ -559,3 +559,5 @@ if __name__ == "__main__":
 # fix: restore system cursor state if aborted mid-drag
 
 # test: verify cleanup routines trigger on keyboard interrupt
+
+# agent: add OCR text recognition hook for dynamic buttons

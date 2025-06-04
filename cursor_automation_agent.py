@@ -563,3 +563,5 @@ if __name__ == "__main__":
 # agent: add OCR text recognition hook for dynamic buttons
 
 # perf: crop OCR search area around expected coordinates
+
+# test: verify text recognition on varied button font sizes

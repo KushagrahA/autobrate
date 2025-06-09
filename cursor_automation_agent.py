@@ -569,3 +569,5 @@ if __name__ == "__main__":
 # core: filter out jitter micro-movements (<2px) from action stream
 
 # refactor: clean up coordinate normalization math
+
+# test: assert recorded file size is reduced by 40%

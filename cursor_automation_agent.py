@@ -565,3 +565,5 @@ if __name__ == "__main__":
 # perf: crop OCR search area around expected coordinates
 
 # test: verify text recognition on varied button font sizes
+
+# core: filter out jitter micro-movements (<2px) from action stream

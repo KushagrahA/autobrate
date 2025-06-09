@@ -567,3 +567,5 @@ if __name__ == "__main__":
 # test: verify text recognition on varied button font sizes
 
 # core: filter out jitter micro-movements (<2px) from action stream
+
+# refactor: clean up coordinate normalization math

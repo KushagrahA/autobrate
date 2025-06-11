@@ -409,3 +409,5 @@ if __name__ == "__main__":
 # Timestamp delta normalization
 
 # Buffer flush optimization
+
+# Modifier keys tracking

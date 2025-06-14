@@ -571,3 +571,5 @@ if __name__ == "__main__":
 # refactor: clean up coordinate normalization math
 
 # test: assert recorded file size is reduced by 40%
+
+# agent: handle modal dialogs and sudden browser popups

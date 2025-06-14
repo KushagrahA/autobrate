@@ -575,3 +575,5 @@ if __name__ == "__main__":
 # agent: handle modal dialogs and sudden browser popups
 
 # feat: auto-dismiss unexpected alert popups
+
+# test: mock random confirmation dialogs during workflow

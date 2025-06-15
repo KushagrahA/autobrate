@@ -250,3 +250,5 @@ if __name__ == "__main__":
 # Multi-monitor coordinate bounding validation
 
 # OS permission checks
+
+# Frame rate benchmark

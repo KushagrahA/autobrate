@@ -577,3 +577,5 @@ if __name__ == "__main__":
 # feat: auto-dismiss unexpected alert popups
 
 # test: mock random confirmation dialogs during workflow
+
+# diagnostics: screen capture frame rate and latency benchmark

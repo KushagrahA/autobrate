@@ -579,3 +579,5 @@ if __name__ == "__main__":
 # test: mock random confirmation dialogs during workflow
 
 # diagnostics: screen capture frame rate and latency benchmark
+
+# perf: use memory-mapped buffers for screenshot transport

@@ -581,3 +581,5 @@ if __name__ == "__main__":
 # diagnostics: screen capture frame rate and latency benchmark
 
 # perf: use memory-mapped buffers for screenshot transport
+
+# test: measure latency across 1080p, 1440p and 4K displays

@@ -477,3 +477,5 @@ if __name__ == "__main__":
 # Double click handling
 
 # Text input typing simulation
+
+# Clipboard paste fallback

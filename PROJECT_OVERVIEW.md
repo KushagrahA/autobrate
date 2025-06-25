@@ -339,3 +339,5 @@ Now go automate something amazing! 🎯
 *Built with ❤️ for automating the boring stuff*
 
 *Remember: Time saved = Time for what matters*
+
+<!-- Security and privacy safeguards -->

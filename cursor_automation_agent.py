@@ -583,3 +583,5 @@ if __name__ == "__main__":
 # perf: use memory-mapped buffers for screenshot transport
 
 # test: measure latency across 1080p, 1440p and 4K displays
+
+# agent: ease-out mouse deceleration curve when approaching target

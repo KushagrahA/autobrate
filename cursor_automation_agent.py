@@ -587,3 +587,5 @@ if __name__ == "__main__":
 # agent: ease-out mouse deceleration curve when approaching target
 
 # feat: human-like overshoot correction on high-velocity movements
+
+# test: plot velocity curve and assert smooth deceleration

@@ -589,3 +589,5 @@ if __name__ == "__main__":
 # feat: human-like overshoot correction on high-velocity movements
 
 # test: plot velocity curve and assert smooth deceleration
+
+# docs: update README with kinematic mouse profile charts

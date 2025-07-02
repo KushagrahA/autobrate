@@ -591,3 +591,5 @@ if __name__ == "__main__":
 # test: plot velocity curve and assert smooth deceleration
 
 # docs: update README with kinematic mouse profile charts
+
+# config: migrate configuration file to JSON schema v2

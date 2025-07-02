@@ -595,3 +595,5 @@ if __name__ == "__main__":
 # config: migrate configuration file to JSON schema v2
 
 # feat: auto-migration for legacy config files
+
+# test: test config validator against invalid parameters

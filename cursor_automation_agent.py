@@ -593,3 +593,5 @@ if __name__ == "__main__":
 # docs: update README with kinematic mouse profile charts
 
 # config: migrate configuration file to JSON schema v2
+
+# feat: auto-migration for legacy config files

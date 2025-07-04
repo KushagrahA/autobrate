@@ -411,3 +411,5 @@ if __name__ == "__main__":
 # Buffer flush optimization
 
 # Modifier keys tracking
+
+# Playback speed multiplier

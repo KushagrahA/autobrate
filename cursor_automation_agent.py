@@ -601,3 +601,5 @@ if __name__ == "__main__":
 # core: wall-clock timer drift compensation during long replays
 
 # fix: keep replay synchronized across system clock adjustments
+
+# test: simulate multi-hour playback with synthetic clock skew

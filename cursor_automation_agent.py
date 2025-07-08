@@ -599,3 +599,5 @@ if __name__ == "__main__":
 # test: test config validator against invalid parameters
 
 # core: wall-clock timer drift compensation during long replays
+
+# fix: keep replay synchronized across system clock adjustments

@@ -479,3 +479,5 @@ if __name__ == "__main__":
 # Text input typing simulation
 
 # Clipboard paste fallback
+
+# Window focus assertion

@@ -260,3 +260,5 @@ Start with a simple task:
 Happy automating! 🚀
 
 <!-- CLI commands section -->
+
+<!-- Architecture diagram update -->

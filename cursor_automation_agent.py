@@ -607,3 +607,5 @@ if __name__ == "__main__":
 # agent: double-click interval timing calibration
 
 # fix: match Windows native double-click speed setting
+
+# test: verify double click fires accurately on desktop icons

@@ -605,3 +605,5 @@ if __name__ == "__main__":
 # test: simulate multi-hour playback with synthetic clock skew
 
 # agent: double-click interval timing calibration
+
+# fix: match Windows native double-click speed setting

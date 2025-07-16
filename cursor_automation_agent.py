@@ -603,3 +603,5 @@ if __name__ == "__main__":
 # fix: keep replay synchronized across system clock adjustments
 
 # test: simulate multi-hour playback with synthetic clock skew
+
+# agent: double-click interval timing calibration

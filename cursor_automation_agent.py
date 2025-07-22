@@ -613,3 +613,5 @@ if __name__ == "__main__":
 # diagnostics: memory leak profiling during continuous recording
 
 # perf: release unmanaged OpenCV image buffers immediately
+
+# test: assert zero memory growth over 1000 action cycles

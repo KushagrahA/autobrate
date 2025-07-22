@@ -611,3 +611,5 @@ if __name__ == "__main__":
 # test: verify double click fires accurately on desktop icons
 
 # diagnostics: memory leak profiling during continuous recording
+
+# perf: release unmanaged OpenCV image buffers immediately

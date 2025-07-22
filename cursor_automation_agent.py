@@ -609,3 +609,5 @@ if __name__ == "__main__":
 # fix: match Windows native double-click speed setting
 
 # test: verify double click fires accurately on desktop icons
+
+# diagnostics: memory leak profiling during continuous recording

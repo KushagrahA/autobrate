@@ -617,3 +617,5 @@ if __name__ == "__main__":
 # test: assert zero memory growth over 1000 action cycles
 
 # agent: support headless execution mode with virtual frame buffer
+
+# test: run test suite in headless Xvfb environment

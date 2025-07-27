@@ -615,3 +615,5 @@ if __name__ == "__main__":
 # perf: release unmanaged OpenCV image buffers immediately
 
 # test: assert zero memory growth over 1000 action cycles
+
+# agent: support headless execution mode with virtual frame buffer

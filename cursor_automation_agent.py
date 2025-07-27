@@ -619,3 +619,5 @@ if __name__ == "__main__":
 # agent: support headless execution mode with virtual frame buffer
 
 # test: run test suite in headless Xvfb environment
+
+# docs: instructions for running automation on headless CI servers

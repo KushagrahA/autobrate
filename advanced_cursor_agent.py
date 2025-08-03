@@ -483,3 +483,5 @@ if __name__ == "__main__":
 # Window focus assertion
 
 # Auto bring window to front
+
+# Element bounding box caching

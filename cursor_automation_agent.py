@@ -623,3 +623,5 @@ if __name__ == "__main__":
 # docs: instructions for running automation on headless CI servers
 
 # core: support multi-monitor desktop coordinate offsets
+
+# fix: negative coordinate handling on secondary left displays

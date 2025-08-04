@@ -621,3 +621,5 @@ if __name__ == "__main__":
 # test: run test suite in headless Xvfb environment
 
 # docs: instructions for running automation on headless CI servers
+
+# core: support multi-monitor desktop coordinate offsets

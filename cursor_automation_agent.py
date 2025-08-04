@@ -625,3 +625,5 @@ if __name__ == "__main__":
 # core: support multi-monitor desktop coordinate offsets
 
 # fix: negative coordinate handling on secondary left displays
+
+# test: verify coordinate mapping across 3-monitor virtual workspace

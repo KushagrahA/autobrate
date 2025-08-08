@@ -415,3 +415,5 @@ if __name__ == "__main__":
 # Playback speed multiplier
 
 # Bugfix: replay corner failsafe
+
+# Exception handling on exit

@@ -631,3 +631,5 @@ if __name__ == "__main__":
 # agent: adaptive wait timeouts based on CPU load
 
 # perf: scale sleep duration dynamically when CPU is overloaded
+
+# test: test action dispatcher under 90% artificial CPU load

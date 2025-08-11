@@ -629,3 +629,5 @@ if __name__ == "__main__":
 # test: verify coordinate mapping across 3-monitor virtual workspace
 
 # agent: adaptive wait timeouts based on CPU load
+
+# perf: scale sleep duration dynamically when CPU is overloaded

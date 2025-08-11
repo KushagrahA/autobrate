@@ -627,3 +627,5 @@ if __name__ == "__main__":
 # fix: negative coordinate handling on secondary left displays
 
 # test: verify coordinate mapping across 3-monitor virtual workspace
+
+# agent: adaptive wait timeouts based on CPU load

@@ -511,3 +511,5 @@ def human_like_move(x, y):
 Happy coding! 🚀
 
 <!-- Web form filling workflow -->
+
+<!-- Multi-monitor setup instructions -->

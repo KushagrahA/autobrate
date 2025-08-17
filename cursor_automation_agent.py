@@ -635,3 +635,5 @@ if __name__ == "__main__":
 # test: test action dispatcher under 90% artificial CPU load
 
 # docs: update FAQ section with multi-display setup tips
+
+# docs: add animated walkthrough GIFs and code examples

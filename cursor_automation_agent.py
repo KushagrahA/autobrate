@@ -633,3 +633,5 @@ if __name__ == "__main__":
 # perf: scale sleep duration dynamically when CPU is overloaded
 
 # test: test action dispatcher under 90% artificial CPU load
+
+# docs: update FAQ section with multi-display setup tips

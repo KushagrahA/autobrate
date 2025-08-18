@@ -485,3 +485,5 @@ if __name__ == "__main__":
 # Auto bring window to front
 
 # Element bounding box caching
+
+# Smooth deceleration near target

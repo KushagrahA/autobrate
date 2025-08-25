@@ -639,3 +639,5 @@ if __name__ == "__main__":
 # docs: add animated walkthrough GIFs and code examples
 
 # chore: clean up deprecated helper scripts
+
+# agent: fast clipboard paste fallback for long text blocks

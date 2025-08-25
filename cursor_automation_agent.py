@@ -643,3 +643,5 @@ if __name__ == "__main__":
 # agent: fast clipboard paste fallback for long text blocks
 
 # fix: preserve original clipboard content after paste completes
+
+# test: verify clipboard is cleanly restored to previous contents

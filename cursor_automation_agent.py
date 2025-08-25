@@ -641,3 +641,5 @@ if __name__ == "__main__":
 # chore: clean up deprecated helper scripts
 
 # agent: fast clipboard paste fallback for long text blocks
+
+# fix: preserve original clipboard content after paste completes

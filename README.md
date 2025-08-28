@@ -262,3 +262,5 @@ Happy automating! 🚀
 <!-- CLI commands section -->
 
 <!-- Architecture diagram update -->
+
+<!-- Real world examples updated -->

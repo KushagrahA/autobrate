@@ -417,3 +417,5 @@ if __name__ == "__main__":
 # Bugfix: replay corner failsafe
 
 # Exception handling on exit
+
+# Key up event tracking

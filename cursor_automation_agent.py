@@ -647,3 +647,5 @@ if __name__ == "__main__":
 # test: verify clipboard is cleanly restored to previous contents
 
 # core: fix stuck modifier keys during emergency abort
+
+# refactor: release all virtual keys on process teardown

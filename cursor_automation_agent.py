@@ -649,3 +649,5 @@ if __name__ == "__main__":
 # core: fix stuck modifier keys during emergency abort
 
 # refactor: release all virtual keys on process teardown
+
+# test: assert zero dangling keypresses after SIGTERM

@@ -489,3 +489,5 @@ if __name__ == "__main__":
 # Smooth deceleration near target
 
 # Overshoot correction
+
+# Dynamic sleep calculation

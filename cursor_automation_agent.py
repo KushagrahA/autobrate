@@ -651,3 +651,5 @@ if __name__ == "__main__":
 # refactor: release all virtual keys on process teardown
 
 # test: assert zero dangling keypresses after SIGTERM
+
+# perf: optimize screenshot diffing using perceptual hashing

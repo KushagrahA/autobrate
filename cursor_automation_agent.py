@@ -653,3 +653,5 @@ if __name__ == "__main__":
 # test: assert zero dangling keypresses after SIGTERM
 
 # perf: optimize screenshot diffing using perceptual hashing
+
+# test: test perceptual hash tolerance on subtle rendering shifts

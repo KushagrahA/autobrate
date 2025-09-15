@@ -655,3 +655,5 @@ if __name__ == "__main__":
 # perf: optimize screenshot diffing using perceptual hashing
 
 # test: test perceptual hash tolerance on subtle rendering shifts
+
+# docs: explain visual diffing engine in PROJECT_OVERVIEW.md

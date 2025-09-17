@@ -419,3 +419,5 @@ if __name__ == "__main__":
 # Exception handling on exit
 
 # Key up event tracking
+
+# Timestamp drift compensation

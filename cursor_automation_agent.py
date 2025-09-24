@@ -659,3 +659,5 @@ if __name__ == "__main__":
 # docs: explain visual diffing engine in PROJECT_OVERVIEW.md
 
 # agent: add action retry assertions and error telemetry
+
+# feat: dump diagnostic frame on unrecoverable action failure

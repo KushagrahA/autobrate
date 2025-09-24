@@ -657,3 +657,5 @@ if __name__ == "__main__":
 # test: test perceptual hash tolerance on subtle rendering shifts
 
 # docs: explain visual diffing engine in PROJECT_OVERVIEW.md
+
+# agent: add action retry assertions and error telemetry

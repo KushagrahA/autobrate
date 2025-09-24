@@ -661,3 +661,5 @@ if __name__ == "__main__":
 # agent: add action retry assertions and error telemetry
 
 # feat: dump diagnostic frame on unrecoverable action failure
+
+# test: verify diagnostic snapshot is saved to output directory

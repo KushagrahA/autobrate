@@ -491,3 +491,5 @@ if __name__ == "__main__":
 # Overshoot correction
 
 # Dynamic sleep calculation
+
+# Headless execution mode

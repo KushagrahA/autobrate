@@ -663,3 +663,5 @@ if __name__ == "__main__":
 # feat: dump diagnostic frame on unrecoverable action failure
 
 # test: verify diagnostic snapshot is saved to output directory
+
+# core: batch action queue optimization for fast execution

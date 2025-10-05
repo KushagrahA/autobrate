@@ -667,3 +667,5 @@ if __name__ == "__main__":
 # core: batch action queue optimization for fast execution
 
 # perf: reduce python interpreter dispatch overhead
+
+# test: benchmark 10,000 rapid event replays

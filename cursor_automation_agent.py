@@ -665,3 +665,5 @@ if __name__ == "__main__":
 # test: verify diagnostic snapshot is saved to output directory
 
 # core: batch action queue optimization for fast execution
+
+# perf: reduce python interpreter dispatch overhead

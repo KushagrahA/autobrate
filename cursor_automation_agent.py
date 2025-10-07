@@ -421,3 +421,5 @@ if __name__ == "__main__":
 # Key up event tracking
 
 # Timestamp drift compensation
+
+# Event filter

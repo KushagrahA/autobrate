@@ -264,3 +264,5 @@ Happy automating! 🚀
 <!-- Architecture diagram update -->
 
 <!-- Real world examples updated -->
+
+<!-- FAQ section added -->

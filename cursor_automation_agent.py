@@ -673,3 +673,5 @@ if __name__ == "__main__":
 # agent: window focus verification before input injection
 
 # fix: bring target window to foreground if minimized
+
+# test: test auto-focus restore on minimized browser window

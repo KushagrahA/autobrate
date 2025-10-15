@@ -671,3 +671,5 @@ if __name__ == "__main__":
 # test: benchmark 10,000 rapid event replays
 
 # agent: window focus verification before input injection
+
+# fix: bring target window to foreground if minimized

@@ -493,3 +493,5 @@ if __name__ == "__main__":
 # Dynamic sleep calculation
 
 # Headless execution mode
+
+# OCR helper hook

@@ -52,3 +52,5 @@ echo.
 echo Remember to run as Administrator for full permissions!
 echo.
 pause
+
+rem verify python version

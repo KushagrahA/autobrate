@@ -675,3 +675,5 @@ if __name__ == "__main__":
 # fix: bring target window to foreground if minimized
 
 # test: test auto-focus restore on minimized browser window
+
+# docs: comprehensive troubleshooting guide in README

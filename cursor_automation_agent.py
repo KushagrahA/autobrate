@@ -677,3 +677,5 @@ if __name__ == "__main__":
 # test: test auto-focus restore on minimized browser window
 
 # docs: comprehensive troubleshooting guide in README
+
+# chore: add linting and type annotation checks with mypy

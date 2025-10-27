@@ -423,3 +423,5 @@ if __name__ == "__main__":
 # Timestamp drift compensation
 
 # Event filter
+
+# Fix: F9 toggle edge case

@@ -495,3 +495,5 @@ if __name__ == "__main__":
 # Headless execution mode
 
 # OCR helper hook
+
+# Multi-tab browser sync

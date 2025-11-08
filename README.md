@@ -266,3 +266,5 @@ Happy automating! 🚀
 <!-- Real world examples updated -->
 
 <!-- FAQ section added -->
+
+<!-- Updated examples for version 0.9 -->

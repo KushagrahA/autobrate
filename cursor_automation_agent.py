@@ -689,3 +689,5 @@ if __name__ == "__main__":
 # perf: minimize background thread CPU usage to <0.5% when idle
 
 # agent: final tuning of human jitter parameters
+
+# docs: update quickstart guide with production recommendations

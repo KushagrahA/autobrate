@@ -691,3 +691,5 @@ if __name__ == "__main__":
 # agent: final tuning of human jitter parameters
 
 # docs: update quickstart guide with production recommendations
+
+# chore: bump version to 0.9.5-rc1

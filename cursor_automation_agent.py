@@ -687,3 +687,5 @@ if __name__ == "__main__":
 # test: comprehensive integration test suite passing 100%
 
 # perf: minimize background thread CPU usage to <0.5% when idle
+
+# agent: final tuning of human jitter parameters

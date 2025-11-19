@@ -425,3 +425,5 @@ if __name__ == "__main__":
 # Event filter
 
 # Fix: F9 toggle edge case
+
+# Clean main loop refactoring

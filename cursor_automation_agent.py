@@ -693,3 +693,5 @@ if __name__ == "__main__":
 # docs: update quickstart guide with production recommendations
 
 # chore: bump version to 0.9.5-rc1
+
+# config: finalize default configuration presets

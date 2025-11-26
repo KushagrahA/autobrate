@@ -697,3 +697,5 @@ if __name__ == "__main__":
 # config: finalize default configuration presets
 
 # test: verify default config produces reliable replay
+
+# chore: code freeze for v1.0 release candidate

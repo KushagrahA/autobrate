@@ -695,3 +695,5 @@ if __name__ == "__main__":
 # chore: bump version to 0.9.5-rc1
 
 # config: finalize default configuration presets
+
+# test: verify default config produces reliable replay

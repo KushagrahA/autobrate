@@ -271,3 +271,5 @@ Questions? Check the README.md for detailed docs!
 Happy automating! 🎉
 
 <!-- Troubleshooting common issues -->
+
+<!-- End of November polish -->

@@ -497,3 +497,5 @@ if __name__ == "__main__":
 # OCR helper hook
 
 # Multi-tab browser sync
+
+# Final agent polish

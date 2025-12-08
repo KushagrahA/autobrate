@@ -701,3 +701,5 @@ if __name__ == "__main__":
 # chore: code freeze for v1.0 release candidate
 
 # core: harden error boundaries around native OS input hooks
+
+# test: fuzz input hook with random key combinations

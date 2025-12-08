@@ -703,3 +703,5 @@ if __name__ == "__main__":
 # core: harden error boundaries around native OS input hooks
 
 # test: fuzz input hook with random key combinations
+
+# docs: security audit notes and final code review checklist

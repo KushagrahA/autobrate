@@ -699,3 +699,5 @@ if __name__ == "__main__":
 # test: verify default config produces reliable replay
 
 # chore: code freeze for v1.0 release candidate
+
+# core: harden error boundaries around native OS input hooks

@@ -705,3 +705,5 @@ if __name__ == "__main__":
 # test: fuzz input hook with random key combinations
 
 # docs: security audit notes and final code review checklist
+
+# chore: prepare v1.0.0 final release package

@@ -709,3 +709,5 @@ if __name__ == "__main__":
 # chore: prepare v1.0.0 final release package
 
 # docs: finalize CHANGELOG.md and release notes
+
+# chore: tag v1.0.0 milestone and archive project repository

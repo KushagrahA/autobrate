@@ -268,3 +268,5 @@ Happy automating! 🚀
 <!-- FAQ section added -->
 
 <!-- Updated examples for version 0.9 -->
+
+<!-- Shelved and archived for production use -->
